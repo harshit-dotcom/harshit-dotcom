@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Harshit Sharma
-- 👀 I’m interested in C++, Python and Javascript Languages.
+- 👀 I have a good command on C++, Python and Javascript Programming Language.
 - 🌱 I’m currently learning Problem Solving using Data Structures & Algorithms.
 - 💞️ I’m looking to collaborate on MERN Stack Projects.
 - 📫 Reach me at LinkedIn https://www.linkedin.com/in/harshitisreal/
